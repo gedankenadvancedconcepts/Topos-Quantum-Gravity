@@ -1,6 +1,3 @@
-# Topos Quantum Gravity (TQG)
-### The Proof of the Quantum Block Universe
-
 > **Methodological Note and Disclaimer:**
 > *The methodologies and mathematical frameworks presented in this paper—specifically the Unified Calculus and Geometric System (UCGS) and the Einstein Triple-Lock Method—diverge significantly from standard conventions in theoretical physics. Recognizing the persistent stagnation in current quantum gravity research, this project was initiated to explore a fundamentally new, highly abstract methodology rooted in structural logic.*
 >
@@ -9,6 +6,9 @@
 >  *This explains the rationale behind operations that might initially appear as mathematical syntax errors—such as taking the categorical pullback of an equation. **To understand this framework, one must look beyond the algebraic surface of the equation to the fundamental logical structure it entails. Topos Quantum Gravity is built entirely on this structural logic, which introduces a new approach to reasoning based upon structural invariants.** By analyzing the underlying morphisms, this methodology seeks to identify absolute categorical invariants—such as terminal objects and universal properties (and theoretically Kan extensions, though unnecessary for the derivations herein)—to serve as the foundational bedrock of the physical theory. **The theory prioritizes this relational structure over the specific internal composition of the objects involved**, representing a paradigm shift from standard computational physics.*
 >
 > *This top-down, structurally abstract approach was pursued because traditional coordinate-based and statistical methods have thus far failed to yield a unified theory. While initially developed purely as an exploratory logical framework, it unexpectedly yielded internally consistent solutions to several longstanding problems. We invite the reader to temporarily suspend standard methodological expectations and evaluate the framework based on its own internal logic, structural consistency, and predictive capacity.*
+
+# Topos Quantum Gravity (TQG)
+### The Proof of the Quantum Block Universe
 
 **By Gedanken Advanced Concepts**
 
