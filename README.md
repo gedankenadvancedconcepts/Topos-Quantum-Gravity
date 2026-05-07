@@ -11,7 +11,7 @@ Topos Quantum Gravity resolves this crisis not by inventing new, unobservable pa
 
 Inspired by Einstein and Newton we sought to return to pure deterministic mathematical reasoning free from error and statistical/probabilistic inference. To do this we used category theory. We also created a unified math in the limit of 8+ traditional maths called **Unified Calculus & Geometry System (UCGS)**—a strictly coordinate-free, index-free mathematical engine based on Exterior Calculus and Sheaf-Theoretic Logic. The new math gives isomorphic answers to traditional maths but significantly simplifies the math involved in quantum gravity so it does not require specialist knowledge. UCGS is completely deterministic. 
 
-In Topos Quantum Gravity we prove that the universe is a self-contained single **Quantum Block Universe**. Topos Quantum Gravity shows the universe is a monad. It is a self-contained CPT symmetric universe with a mirror universe. The theory completely proves any multi-verse (whether branching or cyclic) is mathematically impossible. The multi-verse was a mathematical coordinate illusion.
+In Topos Quantum Gravity we prove that the universe is a self-contained single **Quantum Block Universe**. Topos Quantum Gravity shows the universe is a monad. It is a self-contained CPT symmetric universe with a mirror universe (which is required to maintain CPT symmetry). The theory completely proves any multi-verse (whether branching or cyclic) is mathematically impossible. The multi-verse was a mathematical coordinate illusion.
 
 ### The Master Constraint
 At the heart of this repository is the absolute geometric boundary condition of the universe, the **Master Constraint**:
