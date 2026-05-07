@@ -17,7 +17,7 @@ UCGS and Topos Quantum Gravity sheds new light on quantum mechanics, statistics 
 
 Using category theory and it's master equation (i.e. the master constraint) derived from category theory, Topos Quantum Gravity derives all equations analytically from first principles and pure mathematics. The theory derives: 1) The unification of Quantum Mechanics and General Relativity, 2) The dark matter Lagrangian, 3) the fine structure constant, 4) all parameters in the standard model, and 5) the standard model Lagrangian all parameter free with exactly zero parameters in all equations needing to be fixed by observation or experiment.
 
-The theory attempts to solve all current tensions in cosmology today including JWST earl galaxay observations, the Hubble tension, the core-cusp problem and more.
+The theory attempts to solve all current tensions in cosmology today including JWST early galaxay observations, the Hubble tension, the core-cusp problem, and more.
 
 ### The Master Constraint
 At the heart of this theory is the absolute geometric boundary condition of the universe, the **Master Constraint**:
