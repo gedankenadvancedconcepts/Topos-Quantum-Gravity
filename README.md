@@ -1,5 +1,5 @@
 # Topos Quantum Gravity (TQG)
-### The Invariant Core of the Quantum Block Universe
+### The Proof of the Quantum Block Universe
 
 **By Gedanken Advanced Concepts**
 
