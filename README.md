@@ -19,7 +19,7 @@ In Topos Quantum Gravity we prove that the universe is a self-contained single *
 
 For nearly a century, theoretical physics has been paralyzed by a fundamental category error: the attempt to "quantize" gravity on a continuous, coordinate-dependent manifold. This assumption has spawned a crisis of infinities, the $10^{120}$ vacuum energy catastrophe, and a Standard Model plagued by over two dozen arbitrary "free parameters" that must be manually tuned to fit empirical data. 
 
-Topos Quantum Gravity resolves this crisis not by inventing new, unobservable particles or fictitious dimensions, but by mathematically annihilating the coordinate-dependent illusions of standard mathematics. Topos Quantum Gravity gives is back the physics we already know and trust on minimal assumptions.
+Topos Quantum Gravity resolves this crisis not by inventing new, unobservable particles or fictitious dimensions, but by mathematically annihilating the coordinate-dependent illusions of standard mathematics. Topos Quantum Gravity gives us back the physics we already know and trust on minimal assumptions.
 
 Inspired by Einstein and Newton we sought to return to pure deterministic mathematical reasoning free from error and statistical/probabilistic inference. To do this we used category theory. Category theory was used to creat a unified math in the limit of 8+ traditional maths called **Unified Calculus & Geometry System (UCGS)**—a strictly coordinate-free, index-free mathematical engine based on Exterior Calculus over a manifold and Sheaf-Theoretic Logic. The new math gives isomorphic answers to traditional maths but significantly simplifies the math involved in quantum gravity so it does not require specialist knowledge. UCGS is completely deterministic. 
 
