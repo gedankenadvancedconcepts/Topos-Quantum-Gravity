@@ -3,6 +3,8 @@
 
 **By Gedanken Advanced Concepts**
 
+**Disclaimer:** *We fully acknowledge the unorthodox and contrarian nature of our methodologies and mathematical methods. It seems obvious the developers doing what physics had always done was not working and a new methodology could help. The project started entirely from developing this new methodology and we were surprised when it seems to actually solve many standing problems. Along the journey we became convince it all worked and seems to solve many problems.Therefore, it's requested that you keep an open mind and not be turned off by some of our claims and non-standard/unorthodox approaches. We invite you to consider it all for yourself and if it makes sense. It may not be communicated the best way possible and the methods are new but we think it deserves a hearing and should rise or fall on it's own logic.*
+
 Welcome to the official repository for **Topos Quantum Gravity (TQG)**. 
 
 In Topos Quantum Gravity we prove that the universe is a self-contained single **Quantum Block Universe**. Topos Quantum Gravity shows the universe is a monad, a single entity. It is a self-contained CPT symmetric universe with a mirror universe (which is required to maintain CPT symmetry). The theory completely proves any multi-verse (whether branching or cyclic) is mathematically impossible. The multi-verse was a mathematical coordinate illusion.
