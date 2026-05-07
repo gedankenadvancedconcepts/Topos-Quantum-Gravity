@@ -9,7 +9,9 @@ For nearly a century, theoretical physics has been paralyzed by a fundamental ca
 
 Topos Quantum Gravity resolves this crisis not by inventing new, unobservable particles or fictitious dimensions, but by mathematically annihilating the coordinate-dependent illusions of standard Euclidean calculus. 
 
-By creating a unified math in the limit of 8+ traditional maths and transitioning physics to the new math called **Unified Calculus & Geometry System (UCGS)**—a strictly coordinate-free, index-free mathematical engine based on Exterior Calculus and Sheaf-Theoretic Logic—we simplify the math involved in quantum gravity and prove that the universe is a perfectly closed, deterministic, and finite **Quantum Block Universe**.
+Inspired by Einstein and Newton we sought to return to pure deterministic mathematical reasoning free from error and statistical/probabilistic inference. To do this we deriving a method isomorphic to what Einstein did based on category theory. We also created a unified math in the limit of 8+ traditional maths called **Unified Calculus & Geometry System (UCGS)**—a strictly coordinate-free, index-free mathematical engine based on Exterior Calculus and Sheaf-Theoretic Logic. The new math gives isomorphic answers to traditional maths but significantly simplifies the math involved in quantum gravity so it does not require specialist knowledge. 
+
+In Topos Quantum Gravity we prove that the universe is a self-contained single **Quantum Block Universe**. Topos Quantum Gravity shows the universe is a monad. It is a self-contained CPT symmetric universe with a mirror universe. The theory completely proves any multi-verse (whether branching or cyclic) is mathematically impossible. The multi-verse was a mathematical coordinate illusion.
 
 ### The Master Constraint
 At the heart of this repository is the absolute geometric boundary condition of the universe, the **Master Constraint**:
