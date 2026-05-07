@@ -1,1 +1,0 @@
-# TQG_Proof
