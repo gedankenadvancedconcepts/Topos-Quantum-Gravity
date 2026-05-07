@@ -9,7 +9,7 @@ For nearly a century, theoretical physics has been paralyzed by a fundamental ca
 
 Topos Quantum Gravity resolves this crisis not by inventing new, unobservable particles or fictitious dimensions, but by mathematically annihilating the coordinate-dependent illusions of standard Euclidean calculus. 
 
-By transitioning physics to the **Unified Calculus & Geometry System (UCGS 5.0)**—a strictly coordinate-free, index-free mathematical engine based on Exterior Calculus and Sheaf-Theoretic Logic—we prove that the universe is a perfectly closed, deterministic, and finite **Quantum Block Universe**.
+By transitioning physics to the **Unified Calculus & Geometry System (UCGS)**—a strictly coordinate-free, index-free mathematical engine based on Exterior Calculus and Sheaf-Theoretic Logic—we prove that the universe is a perfectly closed, deterministic, and finite **Quantum Block Universe**.
 
 ### The Master Constraint
 At the heart of this repository is the absolute geometric boundary condition of the universe, the **Master Constraint**:
@@ -19,7 +19,7 @@ $$ \Psi_{QBU} = \int_M \mathbf{C} \wedge \star \mathbf{C} = 0 $$
 This equation dictates that the total structural error ($\mathbf{C}$) of the spacetime manifold ($M$) must perfectly phase-cancel to exactly zero. There are no unmapped degrees of freedom. There is no probabilistic "quantum foam." God does not play dice; the universe simply executes the most resonant topological harmonic.
 
 ### Key Breakthroughs & Derivations
-By applying a strict category-theoretic reverse-engineering method known as the **Einstein Triple-Lock Redux** (enforcing Diffeomorphism, Structural Isomorphism, and Commutativity via Categorical Pullbacks), this repository provides the exact, deterministic derivations for the greatest unsolved problems in physics:
+By applying a strict category-theoretic reverse-engineering method known as the **Einstein Triple-Lock** (enforcing Diffeomorphism, Structural Isomorphism, and Commutativity via Categorical Pullbacks), this repository provides the exact, deterministic derivations for the greatest unsolved problems in physics:
 
 *   **The Parameter-Free Standard Model:** We derive the exact Standard Model Lagrangian with **zero free parameters**. Every mass, mixing angle, and coupling constant is analytically derived as a strict topological intersection number (Hodge Inner Product) of localized sheaf sections on the internal manifold.
 *   **The Planck Voxel & The Speed of Light:** By taking the categorical pullback of the Holographic Entropy Bound and the Quantum Raychaudhuri Equation, we prove spacetime is a 4D digital grid. The speed of light ($c$) is not a velocity; it is the absolute **Resolution Ratio** of the grid (1 Planck Voxel per 1 Planck Tick).
