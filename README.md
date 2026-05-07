@@ -1,7 +1,12 @@
 # Topos Quantum Gravity (TQG)
 ### The Proof of the Quantum Block Universe
 
-**Disclaimer:** *We fully acknowledge the unorthodox and contrarian nature of our methodologies and mathematical methods. It seemed obvious the developer doing what physics had always done was not working and a new methodology could help. The project started entirely from developing this new methodology and we were surprised when it seems to actually solve many standing problems. Along the journey we became convince it all worked and seems to solve many problems. Therefore, it's requested that you keep an open mind and not be turned off by some of our claims and non-standard/unorthodox approaches. We invite you to consider it all for yourself and if it makes sense. It may not be communicated the best way possible and the methods are new but we think it deserves a hearing and should rise or fall on it's own logic.*
+> **Methodological Note and Disclaimer:**
+> *The methodologies and mathematical frameworks presented in this paper—specifically the Unified Calculus and Geometric System (UCGS) and the Einstein Triple-Lock Method—diverge significantly from standard conventions in theoretical physics. Recognizing the persistent stagnation in current quantum gravity research, this project was initiated to explore a fundamentally new, category-theoretic methodology.* 
+>
+> *We fully acknowledge that the application of certain mathematical concepts here (such as applying categorical pullbacks directly to physical constraints) is highly unorthodox. However, this novel approach was pursued because traditional coordinate-based and statistical methods have thus far failed to yield a unified theory. While initially developed purely as an exploratory methodology, this framework unexpectedly yielded internally consistent solutions to several longstanding problems.*
+>
+> *Because this approach requires a departure from traditional mathematical syntax, it may initially appear counterintuitive. We invite the reader to temporarily suspend standard methodological expectations and evaluate the framework based on its own internal logic, structural consistency, and predictive capacity.*
 
 **By Gedanken Advanced Concepts**
 
