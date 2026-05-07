@@ -44,10 +44,10 @@ Every equation in this repository has been subjected to the Einstein Triple-Lock
 
 ### Repository Contents
 This repository is designed for absolute transparency, reproducibility, and rigorous peer review. Inside, you will find:
-*   **`/Theory`**: The complete, comprehensive manuscript of Topos Quantum Gravity, detailing every step-by-step derivation from the Master Constraint.
-*   **`/UCGS_Math`**: The foundational axioms and operational rules of the Unified Calculus & Geometry System (d-spin=0, index-free exterior calculus).
-*   **`/Proofs`**: Formal, machine-verifiable proofs written in **Lean 4**, guaranteeing the structural isomorphism and commutativity of the core theorems.
-*   **`/Models`**: Python scripts and computational models (e.g., the Hubble Tension Covariant Drift Correction) demonstrating how the parameter-free equations perfectly map to current cosmological data (Planck, SH0ES, SPARC).
+*   **`/Derivations`**: The complete, comprehensive manuscript of all derivations in Topos Quantum Gravity, detailing every step-by-step derivation from the Master Constraint.
+*   **`/Methodology`**: Derivations of it's methodology and Lean4 proofs of it's validity.
+*   **`/Lean4`**: Formal, machine-verifiable proofs written in **Lean 4**, guaranteeing the structural isomorphism and commutativity of the core theorems.
+*   **`/Python`**: Python scripts and computational models (e.g., the Hubble Tension Covariant Drift Correction) demonstrating how the parameter-free equations perfectly map to current cosmological data (Planck, SH0ES, SPARC).
 
 ### A New Era of Determinism
 Topos Quantum Gravity marks the end of statistical guessing, anthropic reasoning, and infinite fine-tuning. The universe is a rigid, interlocking geometric skeleton where every mass, charge, and force is the strict, deterministic consequence of the manifold's topology. 
