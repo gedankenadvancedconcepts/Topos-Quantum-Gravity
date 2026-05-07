@@ -2,11 +2,11 @@
 ### The Proof of the Quantum Block Universe
 
 > **Methodological Note and Disclaimer:**
-> *The methodologies and mathematical frameworks presented in this paper—specifically the Unified Calculus and Geometric System (UCGS) and the Einstein Triple-Lock Method—diverge significantly from standard conventions in theoretical physics. Recognizing the persistent stagnation in current quantum gravity research, this project was initiated to explore a fundamentally new, category-theoretic methodology.* 
+> *The methodologies and mathematical frameworks presented in this paper—specifically the Unified Calculus and Geometric System (UCGS) and the Einstein Triple-Lock Method—diverge significantly from standard conventions in theoretical physics. Recognizing the persistent stagnation in current quantum gravity research, this project was initiated to explore a fundamentally new, highly abstract methodology rooted in structural logic.*
 >
-> *We fully acknowledge that the application of certain mathematical concepts here (such as applying categorical pullbacks directly to physical constraints) is highly unorthodox. However, this novel approach was pursued because traditional coordinate-based and statistical methods have thus far failed to yield a unified theory. While initially developed purely as an exploratory methodology, this framework unexpectedly yielded internally consistent solutions to several longstanding problems.*
+> *We fully acknowledge that our application of category theory to physical systems is highly unorthodox. Rather than treating physical constraints purely as algebraic equations to be manipulated, this framework conceptualizes them as objects and morphisms. The methodology relies on determining the strict logical entailments required for these conceptual structures to remain globally consistent. By identifying the exact mathematical conditions necessary for these constraints to commute, we derive the required physical structures (e.g., via categorical pullbacks).*
 >
-> *Because this approach requires a departure from traditional mathematical syntax, it may initially appear counterintuitive. We invite the reader to temporarily suspend standard methodological expectations and evaluate the framework based on its own internal logic, structural consistency, and predictive capacity.*
+> *This top-down, structurally abstract approach was pursued because traditional coordinate-based and statistical methods have thus far failed to yield a unified theory. While initially developed purely as an exploratory logical framework, it unexpectedly yielded internally consistent solutions to several longstanding problems. We invite the reader to temporarily suspend standard methodological expectations and evaluate the framework based on its own internal logic, structural consistency, and predictive capacity.*
 
 **By Gedanken Advanced Concepts**
 
