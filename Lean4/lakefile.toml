@@ -1,0 +1,19 @@
+name = "tqg_study"
+version = "0.1.0"
+
+# Fiber 1: The direct unification proof
+[[lean_lib]]
+name = "Unification"
+
+# Fiber 2: The Category Theory derivation
+[[lean_lib]]
+name = "MasterContraint_CategoryTheory"
+
+# Fiber 3: The UCGS First Principles proof
+[[lean_lib]]
+name = "UCGS_Proof"
+
+[[require]]
+name = "mathlib"
+git = "https://github.com/leanprover-community/mathlib4"
+rev = "v4.15.0"
